@@ -1,0 +1,4 @@
+cources Credits Score
+ CS120 4 99
+ CS121 4 88
+ Eng134 3 98

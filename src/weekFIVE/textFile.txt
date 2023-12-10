@@ -1,0 +1,4 @@
+  Name    Hobby        Hometown
+ Cassie  Reading        Muncie
+ Lacey   Seeping        Hammond
+ Jaylah  hanging out    Dayton
