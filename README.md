@@ -13,10 +13,17 @@
 
 <h3 align= "center"> Connect with me </h3>
 <p align = "center" >Contact me if you want to contribute to my open source.I like to code and it makes me ecstatic.</p>
+
 | Number | Item | Description |
+
 |:----: | ------| ------------|
-| Week one| Dialog, box, Name, Numbers | This week we went over comparing names, numbers in Java|
-| Week Two| Dialog, box, Name, Numbers | This week we went over comparing names, numbers in Java|
-| Week Three| Dialog, box, Name, Numbers | This week we went over comparing names, numbers in Java|
-| Week Four| Dialog, box, Name, Numbers | This week we went over comparing names, numbers in Java|
-| Week Five | Dialog, box, Name, Numbers | This week we went over comparing names, numbers in Java|
+
+| Week one| Dialog, box, Name, Numbers | This week we went over comparing names, and numbers in Java|
+
+| Week Two| Dialog, box, Name, Numbers | This week we went over comparing names, and numbers in Java|
+
+| Week Three| Dialog, box, Name, Numbers| This week we went over comparing names, and numbers in Java|
+
+| Week Four| Dialog, box, Name, Numbers| This week we went over comparing names, and numbers in Java|
+
+| Week Five | Dialog, box, Name, Numbers| This week we went over comparing names, and numbers in Java|
