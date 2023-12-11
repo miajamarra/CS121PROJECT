@@ -22,3 +22,8 @@
 | Week Four| Dialog, box, Name, Numbers| This week we went over comparing names, and numbers in Java|
 | Week Five | Dialog, box, Name, Numbers| This week we went over comparing names, and numbers in Java|
 
+<h3 align= "left"> Language and Skills: </h3>
+<p align = "left"> 
+ <a>  <i class="devicon-intellij-plain-wordmark colored"></i>
+          </a>
+</p>
