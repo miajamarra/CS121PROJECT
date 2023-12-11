@@ -1,6 +1,6 @@
  # CS121PROJECT
 <h1 align="center"> Hi :open_hands: , I'm Mia Lacey </h1>
-<h3 align="center">   A hardworking college student.</h3>
+<h3 align="center">   A hardworking college student pursuing a degree in computer science.</h3>
 
 
 
@@ -11,8 +11,8 @@
 - I have completed [Activities done In Week 3](https://github.com/miajamarra/CS121PROJECT/tree/2e9b0d59ceaa5eff7df1b170588934ce40c093ab/src/WEEKthree)
 - I have completed [Activities done In Week 4](https://github.com/miajamarra/CS121PROJECT/tree/2e9b0d59ceaa5eff7df1b170588934ce40c093ab/src/WEEKfour)
 
-<h3 align= "centered"> = Connect with me </h3>
-<p align = "centered" >Contact me if you want to contribute to my open source.I like to code and it makes me ecstatic.</p>
+<h3 align= "center"> Connect with me </h3>
+<p align = "center" >Contact me if you want to contribute to my open source.I like to code and it makes me ecstatic.</p>
 | Number | Item | Description |
 |:----: | ------| ------------|
 | Week one| Dialog, box, Name, Numbers | This week we went over comparing names, numbers in Java|
