@@ -22,7 +22,7 @@
 | Week Four| Dialog, box, Name, Numbers| This week we went over comparing names, and numbers in Java|
 | Week Five | Dialog, box, Name, Numbers| This week we went over comparing names, and numbers in Java|
 
-<h3 align= "left"> Language and Skills: </h3>
+<h3 align= "center"> Language and Skills: </h3>
 <p align = "left"> 
  <a href:="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" target="blank" rel = "noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" alt = "intellij" width = "60" height= "60"  /></a>
 </p>
