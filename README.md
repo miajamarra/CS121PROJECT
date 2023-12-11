@@ -24,5 +24,5 @@
 
 <h3 align= "center"> Language and Skills: </h3>
 <p align = "left"> 
- <a href:="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" target="blank" rel = "noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" alt = "intellij" width = "60" height= "60"  /></a>
+ <a href="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" target="blank" rel = "noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" alt = "intellij" width = "60" height= "60"/></a>
 </p>
