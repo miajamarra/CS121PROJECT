@@ -12,10 +12,7 @@
 - I have completed [Activities done In Week 4](https://github.com/miajamarra/CS121PROJECT/tree/2e9b0d59ceaa5eff7df1b170588934ce40c093ab/src/WEEKfour)
 
 <h3 align= "centered"> = Connect with me </h3>
-<p align = "centered" > 
-Contact me if you want to contribute to my open source.
-I like to code and it makes me ecstatic.
-</p>
+<p align = "centered" >Contact me if you want to contribute to my open source.I like to code and it makes me ecstatic.</p>
 | Number | Item | Description |
 |:----: | ------| ------------|
 | Week one| Dialog, box, Name, Numbers | This week we went over comparing names, numbers in Java|
