@@ -19,7 +19,5 @@
 | Week one| Dialog, box, Name, Numbers | This week we went over comparing names, and numbers in Java|
 | Week Two| x,y,z | This week we the variables and did an assignment called  "Hello World"|
 | Week Three| Dialog, box, Name, Numbers| This week we went over comparing names, and numbers in Java|
-
 | Week Four| Dialog, box, Name, Numbers| This week we went over comparing names, and numbers in Java|
-
 | Week Five | Dialog, box, Name, Numbers| This week we went over comparing names, and numbers in Java|
