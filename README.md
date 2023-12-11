@@ -24,6 +24,5 @@
 
 <h3 align= "left"> Language and Skills: </h3>
 <p align = "left"> 
- <a>  <i class="devicon-intellij-plain-wordmark colored"></i>
-          </a>
+ <a href:="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" target="blank" rel = "noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" alt = "intellij" width = "40" height= "40"  /></a>
 </p>
