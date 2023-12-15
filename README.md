@@ -8,7 +8,7 @@
 - I have completed a project called  [CharacterBattle ](https://github.com/miajamarra/CS121PROJECT/blob/3d45c6dce50bee5fea98edd820214b395ae0de25/src/ProjectOne/CharacterBattle.java) which combines all the skills learned in the first couple weeks.
 - I have completed an activity called  [Guessing game](https://github.com/miajamarra/CS121PROJECT/blob/f1473de4b2e0af7e078b6e2445e0fdf7b64420b5/src/WEEKfour/Guessinggame.java) where it allows you to guess the number between a certain range. It was fun to make.
 - I have completed an activity where you had to  [test averages](https://github.com/miajamarra/CS121PROJECT/blob/f1473de4b2e0af7e078b6e2445e0fdf7b64420b5/src/loopactivities/TestAverage.java) of a students test scores.
-- I have completed another activity where we were assigned to  [Test classes](https://github.com/miajamarra/CS121PROJECT/blob/f1473de4b2e0af7e078b6e2445e0fdf7b64420b5/src/WEEKsix/Classactivity/testclass.java). I chose to use naruto characters and put their characteristics and print them out.I also did a student profile as well 
+- I have completed another activity where we were assigned to  [Test classes](https://github.com/miajamarra/CS121PROJECT/blob/f1473de4b2e0af7e078b6e2445e0fdf7b64420b5/src/WEEKsix/Classactivity/testclass.java). I chose to use naruto characters and put their characteristics and print them out. I also did a student profile as well 
 - I have completed an activity where you had to so sets and iterators where I had to create a  [Movie Collection Set](https://github.com/miajamarra/CS121PROJECT/blob/f1473de4b2e0af7e078b6e2445e0fdf7b64420b5/src/setAndIteratorActivity/MovieCollectionSet.java) where it allowed you to add movies to a set and print them out.
 
 <h3 align = "center"> Connect with me </h3>
