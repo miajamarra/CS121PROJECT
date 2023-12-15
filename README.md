@@ -16,10 +16,10 @@
 
 | Number | Item | Description |
 |:----: | ------| ------------|
-| Week one| Dialog, box, Name, Numbers | This week we went over comparing names, and numbers in Java|
-| Week Two| x,y,z | This week we the variables and did an assignment called  "Hello World"|
-| Week Three| Dialog, box, Name, Numbers| This week we went over comparing names, and numbers in Java|
-| Week Four| Dialog, box, Name, Numbers| This week we went over comparing names, and numbers in Java|
+|[ Week one](https://github.com/miajamarra/CS121PROJECT/tree/0e79c34c55c487c3e77f126d6fb29b10840709e1/src/weekONE)| Dialog, box, Name, Numbers | This week we went over comparing names, and numbers in Java|
+| [Week Two](https://github.com/miajamarra/CS121PROJECT/tree/3e718e502be097b23b4f0300e373c9605e025cf4/src/weekTWO)| x,y,z | This week we the variables and did an assignment called  "Hello World"|
+|[ Week Three](https://github.com/miajamarra/CS121PROJECT/tree/2e9b0d59ceaa5eff7df1b170588934ce40c093ab/src/WEEKthree)| Dialog, box, Name, Numbers| This week we went over comparing names, and numbers in Java|
+| [Week Four]( https://github.com/miajamarra/CS121PROJECT/tree/2e9b0d59ceaa5eff7df1b170588934ce40c093ab/src/WEEKfour)| Dialog, box, Name, Numbers| This week we went over comparing names, and numbers in Java|
 | Week Five | Dialog, box, Name, Numbers| This week we went over comparing names, and numbers in Java|
 
 <h3 align= "center"> Language and Skills: </h3>
